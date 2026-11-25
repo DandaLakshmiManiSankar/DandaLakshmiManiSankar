@@ -18,9 +18,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/danda-lakshmi-manisankar-364b8b290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://my-personal-port-folio-lemon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:dandamanisankar010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/DandaLakshmiManiSankar"><img src="https://komarev.com/ghpvc/?username=DandaLakshmiManiSankar&color=36bcf7&style=for-the-badge&label=Profile+Views" alt="Profile views" /></a>
-</p>
+  <a href="mailto:dandamanisankar010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 ---
 
