@@ -36,45 +36,56 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,bash&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js&perline=10" alt="Python, Java, TypeScript, JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**AI / ML & Deep Learning**
+**Deep Learning & Computer Vision**
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
 </p>
 
-**GenAI, LLMs & NLP**
+<sub>CNN • RNN • LSTM • GRU • Attention • Object Detection • Image Classification • OCR • Feature Engineering • Model Validation</sub>
+
+**GenAI, LLMs & Agents**
 
 <p>
+  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter" />
-  <img src="https://img.shields.io/badge/RAG-0B7285?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Copilot%20Studio-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot Studio" />
+  <img src="https://img.shields.io/badge/RAG%20%2F%20CAG-0B7285?style=for-the-badge" alt="RAG / CAG" />
+  <img src="https://img.shields.io/badge/Vector%20DB-6E40C9?style=for-the-badge" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-8A2BE2?style=for-the-badge" alt="Fine-tuning" />
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
 </p>
+
+<sub>LLMs: MedGemma • Qwen • Llama • Mistral • Gemini • GPT • Claude &nbsp;|&nbsp; Word2Vec • Vector Embeddings</sub>
 
 **Backend, Frontend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,react,postgres,mysql,mongodb,sqlite&perline=10" alt="Frameworks and databases" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,react,postgres,mongodb&perline=10" alt="FastAPI, NestJS, Node.js, React, PostgreSQL, MongoDB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-**Dev Tools & Platforms**
+**DevOps, MLOps & Monitoring**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,vercel,anaconda&perline=10" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,prometheus,linux,vscode&perline=10" alt="Git, GitHub, GitHub Actions, Docker, Kubernetes, Prometheus, Linux, VS Code" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Alertmanager" />
 </p>
 
 ---
@@ -130,19 +141,6 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DandaLakshmiManiSankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandaLakshmiManiSankar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DandaLakshmiManiSankar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -153,30 +151,17 @@
 
 ## 🌱 Currently Learning / Focus
 
-- **LLM engineering:** parameter-efficient fine-tuning (LoRA / QLoRA), evaluation, and guardrails for reliable outputs
-- **Advanced RAG:** hybrid search, re-ranking, and agentic workflows with LangChain / LangGraph
-- **MLOps:** model serving with FastAPI + Docker, experiment tracking, and CI/CD for ML
-- **System design:** scalable, low-latency inference services, caching, and vector databases
+Growing from AI Engineer toward **AI Architect** — designing complete AI systems, not just models. The modules I'm working through:
 
----
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-Coming soon — automated via GitHub Actions
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DandaLakshmiManiSankar/DandaLakshmiManiSankar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DandaLakshmiManiSankar/DandaLakshmiManiSankar/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/DandaLakshmiManiSankar/DandaLakshmiManiSankar/output/github-snake.svg" />
-  </picture>
-</p>
+| Module | What I'm exploring |
+|---|---|
+| 🧭 **AI Solution Architecture** | Turning business problems into AI system blueprints, model selection, build-vs-buy and cost trade-offs |
+| ⚡ **LLM Serving & Inference** | GPU capacity planning, quantization, KV-cache and batching strategies, latency budgets at scale |
+| 🤖 **Agentic & Multi-Agent Systems** | Orchestration patterns, tool use and memory with Google ADK and CrewAI |
+| 🗂️ **Data & Knowledge Architecture** | Embeddings, vector databases, and choosing between RAG, CAG and deterministic routing |
+| 🛡️ **AI Governance & Responsible AI** | Evaluation gates, guardrails, prompt-injection defense, PHI-safe and privacy-first design |
+| 🔁 **MLOps & Platform** | GitOps CI/CD for models, Kubernetes, monitoring and observability, model lifecycle management |
+| 🏗️ **System Design** | Multi-tenant, scalable, low-latency services with caching, fault tolerance and clear SLAs |
 
 ---
 
